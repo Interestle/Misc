@@ -1,0 +1,7 @@
+// Writing 6 instructions!
+5F1F // ADDI 0x1F, R15
+0F9E // SUB R14, R15
+031F // AND R15, R3
+989D // SUBI 0x9D, R8
+0597 // SUB R7, R5
+061E // AND R14, R6
